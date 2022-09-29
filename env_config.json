@@ -1,0 +1,7 @@
+{
+    "*": {
+        "role": "arn:aws:iam::327050202254:role/github-proton-role",
+        "region": "us-west-2",
+        "state_bucket":"acme-terriform-state"
+    }
+}
