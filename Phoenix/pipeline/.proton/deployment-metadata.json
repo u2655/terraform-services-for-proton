@@ -1,0 +1,10 @@
+{
+  "deploymentId" : "44d4b3b4-e8bf-4051-8f56-baa7ee3b1cd1",
+  "isResourceDeleted" : false,
+  "resourceMetadata" : {
+    "arn" : "arn:aws:proton:us-west-2:327050202254:service/Phoenix/pipeline",
+    "templateArn" : "arn:aws:proton:us-west-2:327050202254:service-template/load-balanced-fargate-svc",
+    "templateMajorVersion" : "1",
+    "templateMinorVersion" : "0"
+  }
+}
